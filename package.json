@@ -23,7 +23,7 @@
 		"coverage"
 	],
 	"keywords": [],
-	"author": "FallenDeity",
+	"author": "SouriRishik",
 	"license": "MIT",
 	"devDependencies": {
 		"@next/eslint-plugin-next": "^13.4.9",
